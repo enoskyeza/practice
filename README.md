@@ -34,3 +34,14 @@ HTML Tables: Construct a table displaying information (e.g., data, schedule, or 
 Forms with Validation: Enhance a form with JavaScript validation for required fields, valid email addresses, or specific input formats.
 
 HTML5 Audio and Video: Implement audio and video elements with HTML5 attributes for controls, autoplay, and loop.
+
+### CSS Tasks:
+Flexbox Layout: Create a layout using Flexbox to arrange multiple elements in a row or column with proper alignment and spacing.
+
+Grid Layout: Design a webpage layout using CSS Grid to create a more complex and structured design.
+
+Responsive Navigation: Implement a responsive navigation menu that adapts to different screen sizes (consider using media queries and/or hamburger menu for mobile devices).
+
+Animation and Transitions: Apply CSS animations or transitions to elements on the webpage (e.g., fade in/out, slide, or rotate) to enhance user experience.
+
+Custom Forms Styling: Customize the appearance of form elements using CSS, creating a consistent and visually appealing form design.
