@@ -59,3 +59,4 @@ Web Components: Build a custom reusable component (e.g., a dropdown menu, modal,
 HTML5 Canvas: Develop an interactive drawing application using the HTML5 <canvas> element, allowing users to draw shapes or patterns.
 
 ### CSS Tasks:
+CSS Preprocessors: Refactor CSS code using a preprocessor like Sass or Less, utilizing features like variables, mixins, and nesting to organize and streamline stylesheets.
