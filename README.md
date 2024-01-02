@@ -60,3 +60,5 @@ HTML5 Canvas: Develop an interactive drawing application using the HTML5 <canvas
 
 ### CSS Tasks:
 CSS Preprocessors: Refactor CSS code using a preprocessor like Sass or Less, utilizing features like variables, mixins, and nesting to organize and streamline stylesheets.
+
+CSS Custom Properties (Variables): Implement a design system using CSS custom properties (variables) for consistent theming and easy style adjustments.
