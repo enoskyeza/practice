@@ -57,3 +57,5 @@ HTML Drag and Drop API: Create a webpage that allows users to drag and drop elem
 Web Components: Build a custom reusable component (e.g., a dropdown menu, modal, or carousel) using HTML templates, custom elements, and shadow DOM.
 
 HTML5 Canvas: Develop an interactive drawing application using the HTML5 <canvas> element, allowing users to draw shapes or patterns.
+
+### CSS Tasks:
