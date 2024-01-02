@@ -49,3 +49,7 @@ Custom Forms Styling: Customize the appearance of form elements using CSS, creat
 ## Hard Difficulty:
 ### HTML Tasks:
 HTML Accessibility: Enhance an entire website for accessibility, ensuring proper use of ARIA attributes, tabindex, and other features to make the site usable for individuals with disabilities.
+
+Responsive Images: Implement responsive images using <picture> and <source> elements to display different image sizes based on device resolutions.
+
+HTML Drag and Drop API: Create a webpage that allows users to drag and drop elements within a specified area using the HTML Drag and Drop API.
