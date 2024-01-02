@@ -53,3 +53,5 @@ HTML Accessibility: Enhance an entire website for accessibility, ensuring proper
 Responsive Images: Implement responsive images using <picture> and <source> elements to display different image sizes based on device resolutions.
 
 HTML Drag and Drop API: Create a webpage that allows users to drag and drop elements within a specified area using the HTML Drag and Drop API.
+
+Web Components: Build a custom reusable component (e.g., a dropdown menu, modal, or carousel) using HTML templates, custom elements, and shadow DOM.
