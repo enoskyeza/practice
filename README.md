@@ -64,3 +64,5 @@ CSS Preprocessors: Refactor CSS code using a preprocessor like Sass or Less, uti
 CSS Custom Properties (Variables): Implement a design system using CSS custom properties (variables) for consistent theming and easy style adjustments.
 
 Advanced Selectors and Pseudo-classes: Use complex CSS selectors and pseudo-classes to style specific elements, such as nth-child, nth-of-type, and attribute selectors.
+
+CSS Animations with Keyframes: Create complex animations using CSS keyframes, incorporating multiple stages and properties to achieve intricate motion effects.
