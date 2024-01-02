@@ -45,3 +45,7 @@ Responsive Navigation: Implement a responsive navigation menu that adapts to dif
 Animation and Transitions: Apply CSS animations or transitions to elements on the webpage (e.g., fade in/out, slide, or rotate) to enhance user experience.
 
 Custom Forms Styling: Customize the appearance of form elements using CSS, creating a consistent and visually appealing form design.
+
+## Hard Difficulty:
+### HTML Tasks:
+HTML Accessibility: Enhance an entire website for accessibility, ensuring proper use of ARIA attributes, tabindex, and other features to make the site usable for individuals with disabilities.
