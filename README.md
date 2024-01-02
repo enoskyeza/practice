@@ -66,3 +66,5 @@ CSS Custom Properties (Variables): Implement a design system using CSS custom pr
 Advanced Selectors and Pseudo-classes: Use complex CSS selectors and pseudo-classes to style specific elements, such as nth-child, nth-of-type, and attribute selectors.
 
 CSS Animations with Keyframes: Create complex animations using CSS keyframes, incorporating multiple stages and properties to achieve intricate motion effects.
+
+CSS Architecture and Methodologies: Implement a CSS architecture methodology like BEM (Block, Element, Modifier) or SMACSS (Scalable and Modular Architecture for CSS) for a larger project to maintain scalability and maintainability.
