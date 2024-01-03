@@ -76,3 +76,9 @@ h2 {
   nav ul li a:hover {
     text-decoration: underline;
   }
+
+  video {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
