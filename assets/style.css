@@ -42,3 +42,11 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+    /* CSS for Drag and Drop */
+    #drag-container {
+      width: 300px;
+      height: 300px;
+      border: 2px dashed #ccc;
+      padding: 10px;
+    }
