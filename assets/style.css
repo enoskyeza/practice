@@ -43,50 +43,49 @@ footer {
   width: 100%;
 }
 
-    /* CSS for Drag and Drop */
-    #drag-container {
-      width: 300px;
-      height: 300px;
-      border: 2px dashed #ccc;
-      padding: 10px;
-    }
+/* CSS for Drag and Drop */
+#drag-container {
+  width: 300px;
+  height: 300px;
+  border: 2px dashed #ccc;
+  padding: 10px;
+}
 
-    .draggable {
-      width: 50px;
-      height: 50px;
-      background-color: #f00;
-      cursor: pointer;
-    }
+.draggable {
+  width: 50px;
+  height: 50px;
+  background-color: #f00;
+  cursor: pointer;
+}
 
-      /* Styles for the Custom Dropdown */
-      .dropdown {
-        position: relative;
-        display: inline-block;
-      }
-      .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #f9f9f9;
-        min-width: 100px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-      }
-      .dropdown:hover .dropdown-content {
-        display: block;
-      }
-      .dropdown-item {
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-        color: #333;
-      }
-      .dropdown-item:hover {
-        background-color: #f1f1f1;
-      }
+/* Styles for the Custom Dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-item {
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  color: #333;
+}
+.dropdown-item:hover {
+  background-color: #f1f1f1;
+}
 
-
-    /* Styles for Canvas */
-    canvas {
-      border: 2px solid #000;
-      cursor: crosshair;
-    }
+/* Styles for Canvas */
+canvas {
+  border: 2px solid #000;
+  cursor: crosshair;
+}
