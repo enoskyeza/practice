@@ -83,3 +83,10 @@ footer {
       .dropdown-item:hover {
         background-color: #f1f1f1;
       }
+
+
+    /* Styles for Canvas */
+    canvas {
+      border: 2px solid #000;
+      cursor: crosshair;
+    }
