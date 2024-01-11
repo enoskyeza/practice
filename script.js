@@ -29,4 +29,5 @@
 
       canvas.addEventListener("mousedown", startDrawing);
       canvas.addEventListener("mouseup", stopDrawing);
+      canvas.addEventListener("mousemove", draw);
     });
