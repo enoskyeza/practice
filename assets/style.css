@@ -58,8 +58,6 @@ footer {
       cursor: pointer;
     }
 
-
-    <style>
       /* Styles for the Custom Dropdown */
       .dropdown {
         position: relative;
@@ -85,4 +83,3 @@ footer {
       .dropdown-item:hover {
         background-color: #f1f1f1;
       }
-    </style>
