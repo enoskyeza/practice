@@ -9,4 +9,9 @@
         draw(e);
       }
 
+      function stopDrawing() {
+        isDrawing = false;
+        context.beginPath();
+      }
+
     });
