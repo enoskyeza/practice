@@ -26,4 +26,6 @@
         context.beginPath();
         context.moveTo(e.clientX - canvas.offsetLeft, e.clientY - canvas.offsetTop);
       }
+
+      canvas.addEventListener("mousedown", startDrawing);
     });
