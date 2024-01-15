@@ -68,3 +68,9 @@ Advanced Selectors and Pseudo-classes: Use complex CSS selectors and pseudo-clas
 CSS Animations with Keyframes: Create complex animations using CSS keyframes, incorporating multiple stages and properties to achieve intricate motion effects.
 
 CSS Architecture and Methodologies: Implement a CSS architecture methodology like BEM (Block, Element, Modifier) or SMACSS (Scalable and Modular Architecture for CSS) for a larger project to maintain scalability and maintainability.
+
+JS PRACTISE
+
+1. Variable Declaration:
+    Declare a variable called myVar and assign it the value 42.
+
