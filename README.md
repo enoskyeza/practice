@@ -103,3 +103,6 @@ JS PRACTISE
 
 11. Objects and Methods:
     Add a method called getBirthYear to the person object. This method should return the current year minus the person's age.
+
+12. Asynchronous JavaScript (Promises):
+    Write a function called fetchData that returns a promise. The promise should resolve with the message "Data fetched successfully!" after a delay of 2 seconds.
