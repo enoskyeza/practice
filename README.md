@@ -100,3 +100,6 @@ JS PRACTISE
 
 10. String Manipulation:
     Create a variable called sentence with the value "JavaScript is fun!". Use a string method to extract and log only the word "fun" to the console.
+
+11. Objects and Methods:
+    Add a method called getBirthYear to the person object. This method should return the current year minus the person's age.
