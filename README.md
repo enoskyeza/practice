@@ -91,3 +91,6 @@ JS PRACTISE
 
 7. Objects:
     Create an object called person with properties name and age. Set the values to your name and age.
+
+8. Array Manipulation:
+    Add a new fruit, "grape", to the fruits array created earlier.
