@@ -82,3 +82,6 @@ JS PRACTISE
 
 4. Functions:
     Write a function named multiply that takes two parameters and returns their product.
+
+5. Conditionals:
+    Write an if statement that checks if a variable x is greater than 10. If true, log "x is greater than 10" to the console; otherwise, log "x is not greater than 10".
