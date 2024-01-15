@@ -94,3 +94,6 @@ JS PRACTISE
 
 8. Array Manipulation:
     Add a new fruit, "grape", to the fruits array created earlier.
+
+9. Function Parameters:
+    Write a function named greet that takes a person's name as a parameter and returns a greeting message.
