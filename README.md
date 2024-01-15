@@ -76,3 +76,6 @@ JS PRACTISE
 
 2. Data Types:
     List three different data types in JavaScript.
+
+3. Arrays:
+    Create an array called fruits with three elements: "apple", "banana", and "orange".
