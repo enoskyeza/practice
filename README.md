@@ -106,3 +106,6 @@ JS PRACTISE
 
 12. Asynchronous JavaScript (Promises):
     Write a function called fetchData that returns a promise. The promise should resolve with the message "Data fetched successfully!" after a delay of 2 seconds.
+
+13. Event Handling:
+    Create an HTML button with an id of "myButton". Write JavaScript code to add an event listener to the button that logs "Button clicked!" to the console when the button is clicked.
