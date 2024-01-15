@@ -79,3 +79,6 @@ JS PRACTISE
 
 3. Arrays:
     Create an array called fruits with three elements: "apple", "banana", and "orange".
+
+4. Functions:
+    Write a function named multiply that takes two parameters and returns their product.
