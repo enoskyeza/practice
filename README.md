@@ -88,3 +88,6 @@ JS PRACTISE
 
 6. Loops:
     Use a for loop to log the numbers 1 to 5 to the console.
+
+7. Objects:
+    Create an object called person with properties name and age. Set the values to your name and age.
