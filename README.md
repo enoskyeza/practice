@@ -85,3 +85,6 @@ JS PRACTISE
 
 5. Conditionals:
     Write an if statement that checks if a variable x is greater than 10. If true, log "x is greater than 10" to the console; otherwise, log "x is not greater than 10".
+
+6. Loops:
+    Use a for loop to log the numbers 1 to 5 to the console.
