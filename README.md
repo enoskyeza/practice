@@ -74,3 +74,5 @@ JS PRACTISE
 1. Variable Declaration:
     Declare a variable called myVar and assign it the value 42.
 
+2. Data Types:
+    List three different data types in JavaScript.
