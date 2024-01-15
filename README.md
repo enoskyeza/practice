@@ -97,3 +97,6 @@ JS PRACTISE
 
 9. Function Parameters:
     Write a function named greet that takes a person's name as a parameter and returns a greeting message.
+
+10. String Manipulation:
+    Create a variable called sentence with the value "JavaScript is fun!". Use a string method to extract and log only the word "fun" to the console.
