@@ -82,3 +82,12 @@ console.log(funWord);
 person.getBirthYear = function () {
   return new Date().getFullYear() - this.age;
 };
+
+// Asynchronous JavaScript (Promises)
+function fetchData() {
+  return new Promise(resolve => {
+      setTimeout(() => {
+          resolve("Data fetched successfully!");
+      }, 2000);
+  });
+}
