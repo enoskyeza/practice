@@ -54,3 +54,8 @@ if (x > 10) {
     console.log("x is not greater than 10");
 }
 
+// loops
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+}
+
