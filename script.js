@@ -72,3 +72,8 @@ fruits.push("grape");
 function greet(name) {
   return "Hello, " + name + "!";
 }
+
+// String manipulation
+let sentence = "JavaScript is fun!";
+let funWord = sentence.slice(13, 16);
+console.log(funWord);
