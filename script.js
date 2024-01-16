@@ -37,3 +37,6 @@ let myVar = 42;
 
 // Data Types
 // Three data types: number, string, boolean
+
+// Arrays
+let fruits = ["apple", "banana", "orange"];
