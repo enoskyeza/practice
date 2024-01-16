@@ -91,3 +91,10 @@ function fetchData() {
       }, 2000);
   });
 }
+
+// Event Handling
+let myButton = document.getElementById("myButton");
+myButton.addEventListener("click", function () {
+    console.log("Button clicked!");
+});
+
