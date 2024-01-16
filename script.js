@@ -40,3 +40,17 @@ let myVar = 42;
 
 // Arrays
 let fruits = ["apple", "banana", "orange"];
+
+// functions
+function multiply(a, b) {
+  return a * b;
+}
+
+// Conditions
+let x = 2;
+if (x > 10) {
+    console.log("x is greater than 10");
+} else {
+    console.log("x is not greater than 10");
+}
+
