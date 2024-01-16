@@ -32,6 +32,8 @@
       canvas.addEventListener("mousemove", draw);
     });
 
-// 1. Variable Declaration:
-
+// Variable Declaration:
 let myVar = 42;
+
+// Data Types
+// Three data types: number, string, boolean
