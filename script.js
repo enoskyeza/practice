@@ -67,3 +67,8 @@ let person = {
 
 // Array manipulation
 fruits.push("grape");
+
+// Function parameter
+function greet(name) {
+  return "Hello, " + name + "!";
+}
