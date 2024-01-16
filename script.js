@@ -31,3 +31,7 @@
       canvas.addEventListener("mouseup", stopDrawing);
       canvas.addEventListener("mousemove", draw);
     });
+
+// 1. Variable Declaration:
+
+let myVar = 42;
