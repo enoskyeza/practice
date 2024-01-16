@@ -64,3 +64,6 @@ let person = {
   name: "Your Name",
   age: 25
 };
+
+// Array manipulation
+fruits.push("grape");
