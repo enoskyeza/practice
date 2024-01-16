@@ -77,3 +77,8 @@ function greet(name) {
 let sentence = "JavaScript is fun!";
 let funWord = sentence.slice(13, 16);
 console.log(funWord);
+
+// Objects & methods
+person.getBirthYear = function () {
+  return new Date().getFullYear() - this.age;
+};
