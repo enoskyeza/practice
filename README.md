@@ -127,3 +127,6 @@ JS PRACTISE
 
 19. Error Handling:
     Write a function called divideNumbers that takes two parameters and returns the result of dividing the first parameter by the second. Handle any potential division by zero errors.
+
+20. Array Filtering:
+    Create a function called filterEvenNumbers that takes an array of numbers as a parameter and returns a new array containing only the even numbers.
