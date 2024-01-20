@@ -136,3 +136,6 @@ JS PRACTISE
 
 22. Promises: Chaining:
     Modify the fetchData function to return a promise that resolves with a message "First part done!" after 1 second and then resolves with another message "All done!" after an additional 1 second.
+
+23. Event Delegation:
+    Create an unordered list (<ul>) with multiple list items (<li>). Add a single click event listener to the <ul> element that logs the text content of the clicked <li> to the console.
