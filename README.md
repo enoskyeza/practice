@@ -121,3 +121,6 @@ JS PRACTISE
 
 17. Asynchronous JavaScript (Async/Await):
     Modify the fetchData function from the previous set of questions to use async/await.
+
+18. DOM Manipulation:
+    Create an HTML form with an input field and a submit button. Write JavaScript code to log the value entered in the input field to the console when the form is submitted.
