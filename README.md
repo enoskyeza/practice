@@ -109,3 +109,6 @@ JS PRACTISE
 
 13. Event Handling:
     Create an HTML button with an id of "myButton". Write JavaScript code to add an event listener to the button that logs "Button clicked!" to the console when the button is clicked.
+
+14. Array Iteration:
+    Create a function called sumArray that takes an array of numbers as a parameter and returns the sum of all the numbers in the array.
