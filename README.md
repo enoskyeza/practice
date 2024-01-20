@@ -115,3 +115,6 @@ JS PRACTISE
 
 15. Objects and Methods:
     Create an object called calculator with methods add, subtract, multiply, and divide. Implement each method to perform the corresponding mathematical operation.
+
+16. String Manipulation:
+    Create a function called reverseString that takes a string as a parameter and returns the reversed version of the string.
