@@ -124,3 +124,6 @@ JS PRACTISE
 
 18. DOM Manipulation:
     Create an HTML form with an input field and a submit button. Write JavaScript code to log the value entered in the input field to the console when the form is submitted.
+
+19. Error Handling:
+    Write a function called divideNumbers that takes two parameters and returns the result of dividing the first parameter by the second. Handle any potential division by zero errors.
