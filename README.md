@@ -112,3 +112,6 @@ JS PRACTISE
 
 14. Array Iteration:
     Create a function called sumArray that takes an array of numbers as a parameter and returns the sum of all the numbers in the array.
+
+15. Objects and Methods:
+    Create an object called calculator with methods add, subtract, multiply, and divide. Implement each method to perform the corresponding mathematical operation.
