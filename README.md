@@ -130,3 +130,6 @@ JS PRACTISE
 
 20. Array Filtering:
     Create a function called filterEvenNumbers that takes an array of numbers as a parameter and returns a new array containing only the even numbers.
+
+21. JSON Parsing:
+    Create a JSON string representing information about a person (e.g., name, age, and address). Write JavaScript code to parse this JSON string into an object.
