@@ -142,3 +142,6 @@ JS PRACTISE
 
 24. Recursion:
     Write a recursive function called factorial that calculates the factorial of a given number.
+
+25. LocalStorage:
+    Create a function called saveToLocalStorage that takes a key-value pair and saves it to the browser's local storage.
