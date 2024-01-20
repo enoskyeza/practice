@@ -139,3 +139,6 @@ JS PRACTISE
 
 23. Event Delegation:
     Create an unordered list (<ul>) with multiple list items (<li>). Add a single click event listener to the <ul> element that logs the text content of the clicked <li> to the console.
+
+24. Recursion:
+    Write a recursive function called factorial that calculates the factorial of a given number.
