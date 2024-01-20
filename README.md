@@ -118,3 +118,6 @@ JS PRACTISE
 
 16. String Manipulation:
     Create a function called reverseString that takes a string as a parameter and returns the reversed version of the string.
+
+17. Asynchronous JavaScript (Async/Await):
+    Modify the fetchData function from the previous set of questions to use async/await.
