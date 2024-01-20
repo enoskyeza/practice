@@ -133,3 +133,6 @@ JS PRACTISE
 
 21. JSON Parsing:
     Create a JSON string representing information about a person (e.g., name, age, and address). Write JavaScript code to parse this JSON string into an object.
+
+22. Promises: Chaining:
+    Modify the fetchData function to return a promise that resolves with a message "First part done!" after 1 second and then resolves with another message "All done!" after an additional 1 second.
