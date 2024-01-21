@@ -116,3 +116,11 @@ let calculator = {
 function reverseString(str) {
   return str.split("").reverse().join("");
 }
+
+async function fetchData() {
+  return new Promise(resolve => {
+      setTimeout(() => {
+          resolve("Data fetched successfully!");
+      }, 2000);
+  });
+}
