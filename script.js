@@ -157,3 +157,6 @@ innerFunction();
 function filterEvenNumbers(numbers) {
   return numbers.filter(num => num % 2 === 0);
 }
+
+const jsonString = '{"name": "John", "age": 30, "address": "123 Main St"}';
+const person = JSON.parse(jsonString);
