@@ -124,3 +124,8 @@ async function fetchData() {
       }, 2000);
   });
 }
+
+async function fetchDataAsync() {
+  const result = await fetchData();
+  console.log(result);
+}
