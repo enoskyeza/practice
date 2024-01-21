@@ -153,3 +153,7 @@ function outer() {
 
 const innerFunction = outer();
 innerFunction();
+
+function filterEvenNumbers(numbers) {
+  return numbers.filter(num => num % 2 === 0);
+}
