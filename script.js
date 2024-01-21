@@ -144,3 +144,12 @@ function divideNumbers(a, b) {
   }
   return a / b;
 }
+
+function outer() {
+  return function inner() {
+      console.log("Hello, Closure!");
+  };
+}
+
+const innerFunction = outer();
+innerFunction();
