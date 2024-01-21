@@ -182,3 +182,11 @@ ul.addEventListener('click', function (event) {
         console.log(event.target.textContent);
     }
 });
+
+
+function factorial(n) {
+  if (n === 0 || n === 1) {
+      return 1;
+  }
+  return n * factorial(n - 1);
+}
