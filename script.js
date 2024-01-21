@@ -136,3 +136,11 @@ form.addEventListener('submit', function (event) {
     const inputValue = document.querySelector('input').value;
     console.log(inputValue);
 });
+
+
+function divideNumbers(a, b) {
+  if (b === 0) {
+      throw new Error("Cannot divide by zero");
+  }
+  return a / b;
+}
