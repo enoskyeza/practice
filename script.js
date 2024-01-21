@@ -160,3 +160,18 @@ function filterEvenNumbers(numbers) {
 
 const jsonString = '{"name": "John", "age": 30, "address": "123 Main St"}';
 const person = JSON.parse(jsonString);
+
+function fetchData() {
+  return new Promise(resolve => {
+      setTimeout(() => {
+          resolve("First part done!");
+      }, 1000)
+      .then(() => {
+          return new Promise(resolve => {
+              setTimeout(() => {
+                  resolve("All done!");
+              }, 1000);
+          });
+      });
+  });
+}
