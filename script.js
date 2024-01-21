@@ -129,3 +129,10 @@ async function fetchDataAsync() {
   const result = await fetchData();
   console.log(result);
 }
+
+const form = document.querySelector('form');
+form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    const inputValue = document.querySelector('input').value;
+    console.log(inputValue);
+});
