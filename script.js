@@ -98,3 +98,11 @@ myButton.addEventListener("click", function () {
     console.log("Button clicked!");
 });
 
+
+
+// Practice II
+
+function sumArray(numbers) {
+  return numbers.reduce((sum, num) => sum + num, 0);
+}
+
