@@ -112,3 +112,7 @@ let calculator = {
   multiply: (a, b) => a * b,
   divide: (a, b) => a / b
 };
+
+function reverseString(str) {
+  return str.split("").reverse().join("");
+}
