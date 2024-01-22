@@ -195,3 +195,7 @@ Create an HTML page with a div element. Write JavaScript code that changes the b
 Accordion:
 
 Implement an HTML accordion with collapsible sections. Write JavaScript code to toggle the visibility of the content when the user clicks on the accordion headers.
+
+Drag and Drop:
+
+Create a list of draggable elements. Write JavaScript code to allow the user to drag and drop these elements to reorder the list.
