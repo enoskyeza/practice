@@ -183,3 +183,7 @@ Create a simple note-taking application with an input field and a button. Write 
 Interactive Quiz:
 
 Build an HTML structure for a quiz with multiple-choice questions. Write JavaScript code to check answers and display the score when the user submits the quiz.
+
+Modal Popup:
+
+Create a button on an HTML page that, when clicked, opens a modal popup with additional content. Write JavaScript code to show and hide the modal.
