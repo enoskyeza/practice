@@ -151,3 +151,7 @@ JS PRACTISE
 DOM Manipulation with CSS Classes:
 
 Create an HTML button and a <div> element. Write JavaScript code that toggles a CSS class (e.g., "highlight") on the <div> element when the button is clicked.
+
+Form Validation:
+
+Create an HTML form with a text input and a submit button. Write JavaScript code that validates whether the input is not empty when the form is submitted. If empty, display an error message.
