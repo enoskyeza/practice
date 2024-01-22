@@ -191,3 +191,7 @@ Create a button on an HTML page that, when clicked, opens a modal popup with add
 Dynamic Styling:
 
 Create an HTML page with a div element. Write JavaScript code that changes the background color of the div when the mouse hovers over it and returns it to the original color when the mouse leaves.
+
+Accordion:
+
+Implement an HTML accordion with collapsible sections. Write JavaScript code to toggle the visibility of the content when the user clicks on the accordion headers.
