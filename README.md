@@ -167,3 +167,7 @@ Create a simple webpage with a navigation bar and a main content area. Use CSS m
 Image Carousel:
 
 Create an HTML structure for an image carousel with next and previous buttons. Write JavaScript code to cycle through images when the buttons are clicked.
+
+Dropdown Menu:
+
+Create an HTML navigation menu with dropdown sub-menus. Write JavaScript code to toggle the visibility of the dropdowns when the user hovers over the menu items.
