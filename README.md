@@ -175,3 +175,7 @@ Create an HTML navigation menu with dropdown sub-menus. Write JavaScript code to
 Timer:
 
 Create an HTML page with a display showing a timer (minutes and seconds). Write JavaScript code to start, stop, and reset the timer using buttons.
+
+LocalStorage Usage:
+
+Create a simple note-taking application with an input field and a button. Write JavaScript code to save and retrieve notes from localStorage.
