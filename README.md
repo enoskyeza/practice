@@ -187,3 +187,7 @@ Build an HTML structure for a quiz with multiple-choice questions. Write JavaScr
 Modal Popup:
 
 Create a button on an HTML page that, when clicked, opens a modal popup with additional content. Write JavaScript code to show and hide the modal.
+
+Dynamic Styling:
+
+Create an HTML page with a div element. Write JavaScript code that changes the background color of the div when the mouse hovers over it and returns it to the original color when the mouse leaves.
