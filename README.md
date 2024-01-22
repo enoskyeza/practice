@@ -145,3 +145,9 @@ JS PRACTISE
 
 25. LocalStorage:
     Create a function called saveToLocalStorage that takes a key-value pair and saves it to the browser's local storage.
+
+    <!-- PRACTYISE III -->
+
+DOM Manipulation with CSS Classes:
+
+Create an HTML button and a <div> element. Write JavaScript code that toggles a CSS class (e.g., "highlight") on the <div> element when the button is clicked.
