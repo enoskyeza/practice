@@ -163,3 +163,7 @@ Create an HTML list (<ul>) with no items initially. Write JavaScript code to dyn
 Responsive Design:
 
 Create a simple webpage with a navigation bar and a main content area. Use CSS media queries to make the layout responsive, adjusting styles for different screen sizes.
+
+Image Carousel:
+
+Create an HTML structure for an image carousel with next and previous buttons. Write JavaScript code to cycle through images when the buttons are clicked.
