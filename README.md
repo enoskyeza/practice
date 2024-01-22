@@ -155,3 +155,7 @@ Create an HTML button and a <div> element. Write JavaScript code that toggles a 
 Form Validation:
 
 Create an HTML form with a text input and a submit button. Write JavaScript code that validates whether the input is not empty when the form is submitted. If empty, display an error message.
+
+Dynamic Content:
+
+Create an HTML list (<ul>) with no items initially. Write JavaScript code to dynamically add list items to the <ul> when a button is clicked.
