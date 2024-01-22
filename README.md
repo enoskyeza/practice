@@ -171,3 +171,7 @@ Create an HTML structure for an image carousel with next and previous buttons. W
 Dropdown Menu:
 
 Create an HTML navigation menu with dropdown sub-menus. Write JavaScript code to toggle the visibility of the dropdowns when the user hovers over the menu items.
+
+Timer:
+
+Create an HTML page with a display showing a timer (minutes and seconds). Write JavaScript code to start, stop, and reset the timer using buttons.
