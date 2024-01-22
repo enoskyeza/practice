@@ -179,3 +179,7 @@ Create an HTML page with a display showing a timer (minutes and seconds). Write 
 LocalStorage Usage:
 
 Create a simple note-taking application with an input field and a button. Write JavaScript code to save and retrieve notes from localStorage.
+
+Interactive Quiz:
+
+Build an HTML structure for a quiz with multiple-choice questions. Write JavaScript code to check answers and display the score when the user submits the quiz.
