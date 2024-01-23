@@ -227,3 +227,26 @@ addItemButton.addEventListener('click', function () {
     myList.appendChild(listItem);
 });
 
+
+// chal-05 js
+const imageCarousel = document.getElementById('imageCarousel');
+const prevButton = document.getElementById('prevButton');
+const nextButton = document.getElementById('nextButton');
+const images = ['image1.jpg', 'image2.jpg', 'image3.jpg'];
+let currentImageIndex = 0;
+
+function showImage(index) {
+    imageCarousel.innerHTML = `<img src="${images[index]}" alt="Image ${index + 1}">`;
+}
+
+prevButton.addEventListener('click', function () {
+    currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
+    showImage(currentImageIndex);
+});
+
+nextButton.addEventListener('click', function () {
+    currentImageIndex = (currentImageIndex + 1) % images.length;
+    showImage(currentImageIndex);
+});
+
+showImage(currentImageIndex);
