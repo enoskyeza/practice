@@ -216,3 +216,14 @@ formEl.addEventListener('submit', function (event) {
         // Additional logic for form submission
     }
 });
+
+// chal-03 js
+const myList = document.getElementById('myList');
+const addItemButton = document.getElementById('addItemButton');
+
+addItemButton.addEventListener('click', function () {
+    const listItem = document.createElement('li');
+    listItem.textContent = 'New Item';
+    myList.appendChild(listItem);
+});
+
