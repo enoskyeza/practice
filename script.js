@@ -201,3 +201,18 @@ const highlightDiv = document.getElementById('highlightDiv');
 toggleButton.addEventListener('click', function () {
     highlightDiv.classList.toggle('highlight');
 });
+
+// chal-02 js
+const form = document.getElementById('myForm');
+const textInput = document.getElementById('textInput');
+const errorMessage = document.getElementById('errorMessage');
+
+form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    if (textInput.value.trim() === '') {
+        errorMessage.style.display = 'block';
+    } else {
+        errorMessage.style.display = 'none';
+        // Additional logic for form submission
+    }
+});
