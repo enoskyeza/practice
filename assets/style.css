@@ -94,3 +94,10 @@ canvas {
 .highlight {
   background-color: yellow;
 }
+
+/* CSS */
+@media (max-width: 600px) {
+  .container-challenge {
+      flex-direction: column;
+  }
+}
