@@ -192,3 +192,12 @@ function factorial(n) {
 }
 
 // PRACTICE 4
+
+// chal-01 js
+
+const toggleButton = document.getElementById('toggleButton');
+const highlightDiv = document.getElementById('highlightDiv');
+
+toggleButton.addEventListener('click', function () {
+    highlightDiv.classList.toggle('highlight');
+});
