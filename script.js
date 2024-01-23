@@ -203,11 +203,11 @@ toggleButton.addEventListener('click', function () {
 });
 
 // chal-02 js
-const form = document.getElementById('myForm');
+const formEl = document.getElementById('myForm');
 const textInput = document.getElementById('textInput');
 const errorMessage = document.getElementById('errorMessage');
 
-form.addEventListener('submit', function (event) {
+formEl.addEventListener('submit', function (event) {
     event.preventDefault();
     if (textInput.value.trim() === '') {
         errorMessage.style.display = 'block';
